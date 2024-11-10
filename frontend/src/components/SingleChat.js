@@ -21,7 +21,7 @@ import Lottie from "react-lottie";
 import animationData from "../animations/typing.json";
 
 const ENDPOINT =
-  "https://chatapp-bdbmfpfuh6drexep.centralindia-01.azurewebsites.net/";
+  "https://chatter-hufcgwaagpfagqd9.eastus-01.azurewebsites.net/";
 var socket, selectedChatCompare;
 
 const SingleChat = ({ fetchAgain, setFetchAgain }) => {
